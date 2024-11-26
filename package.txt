@@ -1,1 +1,3 @@
 pyttsx3-dev
+gTTS
+pip install gTTS
